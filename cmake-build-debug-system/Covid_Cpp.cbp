@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Covid_Cpp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Covid_Cpp">
+				<Option output="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Covid_Cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/sfml/2.5.1/include"/>
+					<Add directory="/usr/local/opt/freetype/include/freetype2"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 Covid_Cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Covid_Cpp/fast">
+				<Option output="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Covid_Cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/sfml/2.5.1/include"/>
+					<Add directory="/usr/local/opt/freetype/include/freetype2"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 Covid_Cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/Components.h">
+			<Option target="Covid_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/Entity.cpp">
+			<Option target="Covid_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/Entity.h">
+			<Option target="Covid_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/Game.cpp">
+			<Option target="Covid_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/Game.h">
+			<Option target="Covid_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/Settings.h">
+			<Option target="Covid_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/main.cpp">
+			<Option target="Covid_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/smallwhite/projects/CLionProjects/Covid_Cpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

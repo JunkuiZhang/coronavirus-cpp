@@ -1,0 +1,3 @@
+/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/CMakeFiles/rebuild_cache.dir
+/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/CMakeFiles/edit_cache.dir
+/Users/smallwhite/projects/CLionProjects/Covid_Cpp/cmake-build-debug-system/CMakeFiles/Covid_Cpp.dir
